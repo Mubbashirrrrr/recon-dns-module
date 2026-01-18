@@ -1,0 +1,39 @@
+============================================================
+DNS ENUMERATION RESULTS
+============================================================
+
+A Records:
+----------------------------------------
+  1. 142.250.202.78
+
+NS Records:
+----------------------------------------
+  1. ns1.google.com.
+  2. ns3.google.com.
+  3. ns2.google.com.
+  4. ns4.google.com.
+
+MX Records:
+----------------------------------------
+  1. 10 smtp.google.com.
+
+TXT Records:
+----------------------------------------
+  1. v=spf1 include:_spf.google.com ~all
+  2. apple-domain-verification=30afIBcvSuDV2PLX
+  3. MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB
+  4. onetrust-domain-verification=6d685f1d41a94696ad7ef771f68993e0
+  5. google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0
+  6. docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e
+  7. facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95
+  8. globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=
+  9. docusign=1b0a6754-49b1-4db5-8540-d2c12664b289
+  10. google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ
+  11. google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o
+  12. cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b
+
+PTR Records:
+----------------------------------------
+  1. 142.250.202.78 -> pnfjra-an-in-f14.1e100.net
+
+
